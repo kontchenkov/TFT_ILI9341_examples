@@ -4,4 +4,4 @@ SPL_short/Listings/*
 !SPL_short/Listings/.gitkeep
 SPL_short/DebugConfig/*
 !SPL_short/DebugConfig/.gitkeep
-uvguix.*
+*.uvguix.*
